@@ -1,15 +1,15 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost/opencart/');
+define('HTTP_SERVER', 'http://localhost/marketplace/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost/opencart/');
+define('HTTPS_SERVER', 'http://localhost/marketplace/');
 
 // DIR
-define('DIR_APPLICATION', 'E:/OpenServer/domains/localhost/opencart/catalog/');
-define('DIR_SYSTEM', 'E:/OpenServer/domains/localhost/opencart/system/');
-define('DIR_IMAGE', 'E:/OpenServer/domains/localhost/opencart/image/');
-define('DIR_STORAGE', 'E:/OpenServer/domains/localhost/opencart/storage/');
+define('DIR_APPLICATION', 'E:/OpenServer/domains/localhost/marketplace/catalog/');
+define('DIR_SYSTEM', 'E:/OpenServer/domains/localhost/marketplace/system/');
+define('DIR_IMAGE', 'E:/OpenServer/domains/localhost/marketplace/image/');
+define('DIR_STORAGE', 'E:/OpenServer/domains/localhost/marketplace/storage/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/theme/');
 define('DIR_CONFIG', DIR_SYSTEM . 'config/');
