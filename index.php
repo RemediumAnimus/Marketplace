@@ -1,4 +1,4 @@
-2121<?php
+<?php
 // Version
 define('VERSION', '3.0.2.0');
 
