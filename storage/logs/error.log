@@ -3,3 +3,6 @@
 2018-02-26 14:21:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\OpenServer\domains\localhost\opencart\system\library\db\mysqli.php on line 10
 2018-02-26 14:21:14 - PHP Notice:  Undefined variable: mysql in C:\OpenServer\OpenServer\domains\localhost\opencart\install\controller\install\step_3.php on line 280
 2018-02-26 14:21:14 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\OpenServer\domains\localhost\opencart\install\controller\install\step_3.php on line 280
+2018-02-26 19:05:19 - PHP Warning:  mysqli::mysqli(): (HY000/1049): Unknown database 'otapiopencart2' in C:\OSPanel\domains\localhost\opencart\system\library\db\mysqli.php on line 7
+2018-02-26 19:05:19 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\localhost\opencart\system\library\db\mysqli.php on line 10
+2018-02-26 19:05:19 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\localhost\opencart\system\library\db\mysqli.php on line 10
