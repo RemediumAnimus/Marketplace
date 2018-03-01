@@ -1,8 +1,21 @@
-2018-02-26 14:21:14 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'admin'@'vm-ino.teleclick.ru' (using password: YES) in C:\OpenServer\OpenServer\domains\localhost\opencart\system\library\db\mysqli.php on line 7
+﻿2018-02-26 14:21:14 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'admin'@'vm-ino.teleclick.ru' (using password: YES) in C:\OpenServer\OpenServer\domains\localhost\opencart\system\library\db\mysqli.php on line 7
 2018-02-26 14:21:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\OpenServer\domains\localhost\opencart\system\library\db\mysqli.php on line 10
 2018-02-26 14:21:14 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OpenServer\OpenServer\domains\localhost\opencart\system\library\db\mysqli.php on line 10
 2018-02-26 14:21:14 - PHP Notice:  Undefined variable: mysql in C:\OpenServer\OpenServer\domains\localhost\opencart\install\controller\install\step_3.php on line 280
 2018-02-26 14:21:14 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\OpenServer\domains\localhost\opencart\install\controller\install\step_3.php on line 280
-2018-02-26 19:05:19 - PHP Warning:  mysqli::mysqli(): (HY000/1049): Unknown database 'otapiopencart2' in C:\OSPanel\domains\localhost\opencart\system\library\db\mysqli.php on line 7
-2018-02-26 19:05:19 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\localhost\opencart\system\library\db\mysqli.php on line 10
-2018-02-26 19:05:19 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\localhost\opencart\system\library\db\mysqli.php on line 10
+
+2018-02-26 18:16:55 - PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: ���� ���� ����������.  in E:\OpenServer\domains\localhost\marketplace\system\library\db\mysqli.php on line 7
+2018-02-26 18:16:55 - PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: ���� ���� ����������.  in E:\OpenServer\domains\localhost\marketplace\system\library\db\mysqli.php on line 7
+2018-02-26 18:16:55 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in E:\OpenServer\domains\localhost\marketplace\system\library\db\mysqli.php on line 10
+2018-02-26 18:16:55 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in E:\OpenServer\domains\localhost\marketplace\system\library\db\mysqli.php on line 10
+2018-02-27 19:38:57 - PHP Warning:  unlink(E:/OpenServer/domains/localhost/marketplace/storage/modification/system/engine/action.php): Resource temporarily unavailable in E:\OpenServer\domains\localhost\marketplace\admin\controller\marketplace\modification.php on line 101
+2018-02-27 19:38:58 - PHP Warning:  rmdir(E:/OpenServer/domains/localhost/marketplace/storage/modification/system/engine): Directory not empty in E:\OpenServer\domains\localhost\marketplace\admin\controller\marketplace\modification.php on line 105
+2018-02-27 19:38:58 - PHP Warning:  rmdir(E:/OpenServer/domains/localhost/marketplace/storage/modification/system): Directory not empty in E:\OpenServer\domains\localhost\marketplace\admin\controller\marketplace\modification.php on line 105
+2018-02-27 19:38:58 - PHP Warning:  Cannot modify header information - headers already sent by (output started at E:\OpenServer\domains\localhost\marketplace\admin\controller\startup\error.php:34) in E:\OpenServer\domains\localhost\marketplace\system\library\response.php on line 36
+2018-02-27 20:32:47 - PHP Warning:  fopen(E:/OpenServer/domains/localhost/marketplace/admin/view/stylesheet/bootstrap.css): failed to open stream: No such file or directory in E:\OpenServer\domains\localhost\marketplace\admin\controller\startup\sass.php on line 14
+2018-02-27 20:32:47 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in E:\OpenServer\domains\localhost\marketplace\admin\controller\startup\sass.php on line 16
+2018-02-27 20:32:47 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in E:\OpenServer\domains\localhost\marketplace\admin\controller\startup\sass.php on line 18
+2018-02-27 20:32:47 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in E:\OpenServer\domains\localhost\marketplace\admin\controller\startup\sass.php on line 20
+2018-02-27 20:32:47 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in E:\OpenServer\domains\localhost\marketplace\admin\controller\startup\sass.php on line 22
+2018-02-27 20:32:47 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in E:\OpenServer\domains\localhost\marketplace\admin\controller\startup\sass.php on line 24
+

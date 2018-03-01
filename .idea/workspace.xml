@@ -2,8 +2,194 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4654101f-7a0d-4584-bc94-5cc68b84a10c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore.txt" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/apple_cinema_30-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/apple_cinema_30-228x228.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/apple_cinema_30-40x40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/apple_cinema_30-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/apple_cinema_30-600x315.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/canon_eos_5d_1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/canon_eos_5d_1-40x40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/canon_eos_5d_1-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/canon_eos_5d_1-74x74.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/canon_eos_5d_2-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/canon_eos_5d_2-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/canon_eos_5d_2-74x74.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/canon_logo-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/canon_logo-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/canon_logo-74x74.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/compaq_presario-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/compaq_presario-182x182.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/compaq_presario-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/compaq_presario-74x74.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/hp_1-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/hp_1-40x40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/hp_1-500x500.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/hp_1-74x74.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/htc_touch_hd_1-40x40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/imac_1-200x200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/imac_1-228x228.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/imac_1-40x40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/imac_3-228x228.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/iphone_1-40x40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/ipod_classic_1-40x40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/ipod_nano_1-40x40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/ipod_shuffle_1-40x40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/ipod_touch_1-40x40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/ipod_touch_4-100x100.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_1-40x40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_air_1-40x40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/macbook_pro_1-40x40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/nikon_d300_1-40x40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/palm_treo_pro_1-40x40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_syncmaster_941bw-40x40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/samsung_tab_1-40x40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/catalog/demo/sony_vaio_1-40x40.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/image/cache/no_image-40x40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/journal-cache/empty.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/journal-cache/empty.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/03/03a169814e29021784bbcf674f14704e026a79e81ec6e5e9b656dbc8e3c89164.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/0e/0ebf04818441f8bf86725938b3ac2a6d653cf2107bd965ce235748c92830b69f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/13/13fad2ceaa31614206e370c9a479cc703f4b126d07af1d440075d39d710b9ef0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/16/1629b05cb2a9fd714cd02a1030f7b738134be76bca887d5d752a9bfa90b5e057.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/21/2190c01376317d32972ed17770070449d34de7a15b32281bc33c7ff0c479b0bd.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/24/24fdffb0e1eb739a7ef2bc4cfe1c42575c4668dd371fccd32f2f228a5b93daeb.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/25/2543b11efb77bb802d7c7f5b80f2537b6efe83652e6fd00a8dbdebed16bcec0c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/27/27c3e5c6d4f7eb6ed5c71ba05e4abf225961fe74093dcf3a36ac968b0778d9c8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/31/316e0400fee4f0b0779132428cc3eb70471ae79450cf920246d0bcf5554f0d87.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/33/33c0af79b7b38a95dacb0592fc3c5c4aef4bbe489ccb581622a807294f14d022.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/36/3605188da2fd1ed8a1cd3029a9627691e0219cc568ee3a66e416f6ebe91cf897.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/3c/3ceadee48183afe9185a0e2d795b62d7e30fddf1f072985576e82057813bae45.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/40/40dbf908f3fdc4abf2bfd3636beec372ef78f188339eb4b05128a9e2870721f9.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/45/45622a49499cfcef65856a28ebf4b943699e9a1b3c7f5e88764c7371ff1c417c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/47/479e4a4afefa666aee5835b7d23075f43857ab276a168b6546a9401fa2ada526.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/48/486b952fcad333436f138abd794f1649654dba6751129a7f3f567b3e0a824186.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/49/49c571ea2288bce68c150f9cc71d52f2715592bd8644e7ed819da9735abf56c7.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/4a/4a4973d5f4b05e0981ede9dbe48286e3cbebeb244ed228b6f81b0f90d97bf699.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/4b/4bbf7c8ea55229e942fa04391a9439241558ae213fbc75a2b932e85cacef6cfa.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/56/5610636c7bccdc19dbea3109d89742b479540fb179a39e932859591857b097f4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/5f/5fce69e96026c68b9ba8eecc6b68f0e6c3d20797ea80b71f664c9237ff86655b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/62/625624f47b06040f482adf39e2cbc8f617c8d7925e52268f7b5aa12af5ecf5c7.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/68/68fd1aae0293e0e0212fec848bf25f90550d7c602e76f7e50356f930636c7026.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/6e/6e73c8fad1783ccbb2b00fe0a53c52dc4e3a5436ac010de7bda51dda74950521.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/73/734989d61d67b36fe246a3020cf9661d87d36af710cd23d84b5b2aeafa580978.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/7a/7adb4d51e7e2617559aa47afd29cc4e933ebb40d7c2311a64b558f3e8d314e6d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/7b/7b6f950779942433f085db23361e27c65c50a32c4ba8a0369b63dbd29f234e98.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/7e/7e354bcd8a843c17fcba33baa730cb69057d9db0da6c72b4ac79d1813e02ccd1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/80/801e398166a1a1ec37cb5e323d9472128c186ec2f9ca63e6d58d7d10bdbc9b91.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/80/80d91ceec1f167ae5bda60add7c07401f669c8b2e0b54c03c7da6923cb0b4c7a.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/81/811f60586a4ae28dd5083dc4706740c3f00595b3e7f1359a60ec25eb6b37bb66.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/81/81ac3d8f4c05267b660e3dd83cad592673756e12d560ec979a7ad2a2c3ade9ac.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/86/86e005227d4c88a0bc7e0a4f835d4bce625a6c1c71bc17ad027ad74074db4999.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/8b/8b9973f69cf5e8fc242267c5b78625b119a8a55231e9f7c6a32696356257f46d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/8b/8b9ec43942317cc79f5a337d9acba1fc65b94e4a32a4d3c94976abe2c69780b9.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/8e/8e741b9986137026173a30538fa0122327e471ae93d626c13bf27f497a1b4436.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/98/98b2dfc419b92145514de4ff21fde09cb1dc64fa4cef0b3425d7ed0e09c18105.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/99/999b6133fb59c047074b980e29b8b785a05323b0931d49fe7fd7906047f2b3ee.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/a0/a0d741be2693ea9def4e3b674a3aa0a821bd450f40eb410c99037f83cb57a7dc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/a6/a6d8e4a67e01709fac853891f36e14168f7cdfeefb4ff4b11b43cc0af9396ae1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/a9/a93f72c358b379d76d71f62795860f8dde83c46923f49bf807347ef3bddaee15.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/ac/ac67a84cdafa8264518cd124e657305ad3bc824195d669628fcc9241df3a5f6c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/b6/b60c5f95347c2d16d5f9e6aabe221e0b55535cc5b47213bae9e6ebc8ff081b7c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/bb/bb5e742f649bac91522cca5b59539ee517f6a4c12569db840d59ff2371d31265.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/bb/bb75c23b7f8e07ce205bf682a6f877fa5973b1c2c13388939ee61cfeec813982.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/bd/bd46c6acb066a259739f53a3c3da2418b3d8610eaa6bd2d3fab2444b47b7c051.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/be/be55093cb01a92438531bfe2da217ee50ab4fe933e319b02ab4bc0c2923aff9d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/c3/c3119045c965891a7ca2db4d3870b802d7055063cf0f14d8a873b23964f84bf8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/c8/c8c5540bcabf75055c818cf99848a302ad889f01d38673ede34cb2ab735e1bd1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/cache.admin.language.1519658648" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/cache.catalog.language.1519658751" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/cache.country.admin.1519658648" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/cache.currency.1519658687" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/cache.information.1.1519658648" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/cache.length_class.1.1519658648" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/cache.order_status.1.1519658648" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/cache.product.latest.1.0.1.10.1519658749" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/cache.return_status.1.1519658648" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/cache.weight_class.1.1519658648" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/cache.zone.176.1519658648" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/d0/d0811e3d9f31b01bfc03e79f553420b950bcc928f1b94ee15a7da4aa867a15ba.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/d1/d1f363f08105795b2afa3da6ba95df658bb0c090c62e7fb2e748d6cd0a637132.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/d2/d269067eed8dc102a31a1c46c5603a1876152c7e105531939156c939e0dcd85c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/d7/d702ba899f1c8a7fe98636deb72d64dbbbb3339e0486c2b34f94d2a75865eac4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/d7/d71ed692fb0e8cbd8d47a02e800f8a808105c1166639b7af3cc5100277657f0e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/e0/e00e8955351c449f3e172c55cb7a4b9483d7e85d1f1a2f48c74b50fa48629067.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/e0/e0fe23f6331905972b632dc6226530e920fe3f7a44b6ea5505615b7b7aaff2c0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/e3/e37d603809e670280fd41cd06c13cbd9044e42ed439845ec86f7a4c8dc433ae5.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/e4/e489189a469ad6c93bc52903dcae14d801d0824dfa46cea31cdcf978b49802c0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/e6/e6698aa2f50f11408b69dba101b224dd7a470fb4b71e6193ab772bee6aeefc77.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/ea/ea19bc0fd73c9270c2cceca1214765f2f1f5554464b8a85d34d7055c50e61aec.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/eb/eb61308576dc0f83144f22be176f07253e02258b47ec5d9fbdcc6919573c0cc6.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/ec/ec77b40bde7eb3b8fee15125051aca18b9ed606fd8ae4f752b41d7d250eb0f2d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/ed/ed7073359f297a175ed980b331c20af4977960a6e025749f61784eca3539f060.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/ee/ee09e9214687c6f90b5c4bee93c696c69399cf35a0c39bdd061f3abb7363fe37.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/f6/f66c3d164af3b51c4a273179dda8dafd4bdafb55b9aba13a56f86dbb9998dcb4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/fd/fd27aea99703b8b9e85f7770b524e164caf05dc127ac49572653cf49269a6c92.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/fd/fdf10c351ab6e5ac63405222f3670f87693db5bef6da960eeb433203ed0ca2fa.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/cache/ff/ffb133bd148caa90aaf82867a5e4d6318963b084c7099decdc09621e35fba812.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/admin/controller/common/column_left.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/admin/controller/common/filemanager.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/admin/controller/extension/extension/module.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/admin/controller/marketing/contact.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/admin/controller/marketplace/extension.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/admin/controller/tool/backup.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/admin/model/design/layout.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/admin/model/localisation/currency.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/admin/model/tool/backup.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/admin/view/template/catalog/product_form.twig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/admin/view/template/common/column_left.twig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/admin/view/template/common/filemanager.twig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/admin/view/template/common/header.twig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/admin/view/template/marketplace/marketplace_list.twig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/admin/view/template/tool/backup.twig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/account/account.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/account/order.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/account/wishlist.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/checkout/cart.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/checkout/checkout.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/common/cart.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/common/column_left.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/common/column_right.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/common/content_bottom.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/common/content_top.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/common/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/event/theme.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/extension/module/bestseller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/extension/module/featured.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/extension/module/latest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/extension/module/special.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/information/contact.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/product/category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/product/compare.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/product/manufacturer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/product/product.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/product/search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/product/special.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/startup/maintenance.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/startup/seo_url.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/startup/startup.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/controller/tool/upload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/model/design/layout.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/model/tool/image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/catalog/view/theme/default/template/information/contact.twig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/system/engine/action.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/system/engine/loader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/system/library/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/system/library/language.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/system/library/response.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/system/library/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/system/library/template/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/modification/system/library/template/twig.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/config.php" afterPath="$PROJECT_DIR$/admin/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/controller/common/column_left.php" afterPath="$PROJECT_DIR$/admin/controller/common/column_left.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/language/ru-ru/common/column_left.php" afterPath="$PROJECT_DIR$/admin/language/ru-ru/common/column_left.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/view/template/common/column_left.twig" afterPath="$PROJECT_DIR$/admin/view/template/common/column_left.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admin/view/template/common/header.twig" afterPath="$PROJECT_DIR$/admin/view/template/common/header.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.php" afterPath="$PROJECT_DIR$/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/logs/error.log" afterPath="$PROJECT_DIR$/storage/logs/error.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/logs/ocmod.log" afterPath="$PROJECT_DIR$/storage/logs/ocmod.log" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/storage/cache/cache.store.1519658741" afterPath="$PROJECT_DIR$/storage/cache/cache.store.1519768051" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,32 +202,81 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+        <entry file="file://$PROJECT_DIR$/admin/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="startup.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/startup.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="27" column="57" lean-forward="true" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="column_left.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admin/controller/common/column_left.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/system/library/cart/user.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="23" column="178" lean-forward="false" selection-start-line="23" selection-start-column="178" selection-end-line="23" selection-end-column="178" />
+              <folding>
+                <marker date="1519764446830" expanded="true" signature="386:501" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1519764446830" expanded="true" signature="939:1060" ph="SELECT permi... ${DB_PREFIX}" />
+                <marker date="1519764446830" expanded="true" signature="1404:1672" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1519764446830" expanded="true" signature="1978:2099" ph="SELECT permi... ${DB_PREFIX}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/system/library/db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="30" column="73" lean-forward="true" selection-start-line="30" selection-start-column="73" selection-end-line="30" selection-end-column="82" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="startup.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catalog/controller/startup/startup.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-648">
+              <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+              <folding>
+                <marker date="1519662741750" expanded="true" signature="167:380" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1519662741750" expanded="true" signature="425:637" ph="SELECT * FRO... ${DB_PREFIX}" />
+                <marker date="1519662741750" expanded="true" signature="1117:1267" ph="SELECT * FRO... ${DB_PREFIX}setting" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.php">
+        <entry file="file://$PROJECT_DIR$/system/library/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/admin/config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+            <state relative-caret-position="648">
+              <caret line="42" column="7" lean-forward="true" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -49,29 +284,78 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>openbay</find>
+      <find>getProductCategoryId</find>
+      <find>Twig_Environment</find>
+      <find>class Controller</find>
+      <find>class controller</find>
+      <find>new User</find>
+      <find>registry</find>
+      <find>registry-&gt;set</find>
+      <find>class Language</find>
+      <find>class config</find>
+      <find>Ката</find>
+      <find>каталог</find>
+      <find>function hasPermission</find>
+      <find>echo</find>
+      <find>$permission</find>
+      <find>e</find>
+      <find>text_api</find>
+      <find>print_r</find>
+      <find>print</find>
+      <find>class language</find>
+      <find>echo $l</find>
+      <find>echo $</find>
+      <find>class db</find>
+      <find>db_hostn</find>
+      <find>DB_DATA</find>
+      <find>prin</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/config.php" />
         <option value="$PROJECT_DIR$/admin/config.php" />
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/admin/view/template/common/column_left.twig" />
+        <option value="$PROJECT_DIR$/admin/view/template/common/header.twig" />
+        <option value="$PROJECT_DIR$/system/library/cache/file.php" />
+        <option value="$PROJECT_DIR$/system/library/cache/mem.php" />
+        <option value="$PROJECT_DIR$/system/library/cache/apc.php" />
+        <option value="$PROJECT_DIR$/system/library/cache/redis.php" />
+        <option value="$PROJECT_DIR$/system/library/cache/memcached.php" />
+        <option value="$PROJECT_DIR$/admin/language/ru-ru/common/column_left.php" />
+        <option value="$PROJECT_DIR$/system/library/language.php" />
+        <option value="$PROJECT_DIR$/admin/controller/common/column_left.php" />
+        <option value="$PROJECT_DIR$/system/library/cart/user.php" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1887" />
-    <option name="y" value="201" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="1911" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -88,6 +372,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -101,16 +386,32 @@
               <item name="marketplace" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="marketplace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marketplace" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controller" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="marketplace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marketplace" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="system" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="marketplace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="marketplace" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="system" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../oldmarket" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
@@ -139,35 +440,56 @@
       <updated>1519655266541</updated>
       <workItem from="1519655267935" duration="80000" />
       <workItem from="1519655477910" duration="6000" />
-      <workItem from="1519662861707" duration="1457000" />
+      <workItem from="1519662861707" duration="9216000" />
+      <workItem from="1519756115714" duration="8225000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1569000" />
+    <option name="totallyTimeSpent" value="17553000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25617614" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18098818" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33143508" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.61389524" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13553531" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25993556" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -180,7 +502,322 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/../oldmarket/catalog/controller/api/cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../oldmarket/catalog/controller/common/cart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../oldmarket/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1519677261568" expanded="true" signature="713:920" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1519677261568" expanded="true" signature="961:1167" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1519677261568" expanded="true" signature="1351:1495" ph="SELECT * FRO... ${DB_PREFIX}setting" />
+            <marker date="1519677261568" expanded="true" signature="3447:3507" ph="SELECT * FRO... ${DB_PREFIX}language" />
+            <marker date="1519677261568" expanded="true" signature="6682:6718" ph="SELECT * FRO... ${DB_PREFIX}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../oldmarket/info.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../oldmarket/system/engine/controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../oldmarket/system/engine/front.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../oldmarket/system/engine/loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../oldmarket/system/engine/registry.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../oldmarket/system/engine/action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-675">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../oldmarket/catalog/controller/product/category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../oldmarket/system/startup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1153">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../oldmarket/catalog/controller/api/payment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../oldmarket/system/library/multicurl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1519678393087" expanded="true" signature="8433:8443" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/module/journal2_carousel_grid.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/library/template/Twig/Test/IntegrationTestCase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2340">
+          <caret line="137" column="24" lean-forward="false" selection-start-line="137" selection-start-column="24" selection-end-line="137" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/storage/modification/system/library/template/twig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/product/category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="35" lean-forward="false" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/view/theme/journal2/template/product/category.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/journal2/category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-469">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/template/common/header.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/template/common/column_left.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#li#0;n#ul#0;n#div#1;n#nav#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#li#1;n#ul#0;n#div#1;n#nav#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#li#2;n#ul#0;n#div#1;n#nav#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/storage/cache/0e/0ebf04818441f8bf86725938b3ac2a6d653cf2107bd965ce235748c92830b69f.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/helper/general.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/helper/bbcode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1519662745993" expanded="true" signature="1519:1534" ph="..." />
+            <marker date="1519662745993" expanded="true" signature="1682:1692" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/engine/loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3660">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/library/cache/apc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/library/cache/redis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/library/cache/memcached.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/library/cache/mem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/library/cache/file.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/view/template/catalog/attribute_form.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="true" selection-start-line="0" selection-start-column="29" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../oldmarket/system/library/openbay/otapi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="654" column="0" lean-forward="false" selection-start-line="653" selection-start-column="0" selection-end-line="654" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/engine/controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/journal2/common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="45" column="26" lean-forward="false" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/config/catalog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/config/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/en-gb/en-gb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-972">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/ru-ru/ru-ru.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="80" column="58" lean-forward="false" selection-start-line="80" selection-start-column="58" selection-end-line="80" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/config/default.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -190,17 +827,109 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="30" lean-forward="false" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        <state relative-caret-position="252">
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/config.php">
+    <entry file="file://$PROJECT_DIR$/system/startup.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        <state relative-caret-position="216">
+          <caret line="27" column="57" lean-forward="true" selection-start-line="27" selection-start-column="57" selection-end-line="27" selection-end-column="57" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/language/ru-ru/common/column_left.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/controller/startup/startup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-440">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1519662735582" expanded="true" signature="128:187" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1519662735582" expanded="true" signature="566:693" ph="SELECT * FRO... ${DB_PREFIX}language" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/library/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="42" column="7" lean-forward="true" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/library/language.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="63" column="77" lean-forward="true" selection-start-line="63" selection-start-column="77" selection-end-line="63" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catalog/controller/startup/startup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648">
+          <caret line="15" column="44" lean-forward="false" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <marker date="1519662741750" expanded="true" signature="167:380" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1519662741750" expanded="true" signature="425:637" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1519662741750" expanded="true" signature="1117:1267" ph="SELECT * FRO... ${DB_PREFIX}setting" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/library/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="30" column="73" lean-forward="true" selection-start-line="30" selection-start-column="73" selection-end-line="30" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/controller/common/column_left.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/library/cart/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="23" column="178" lean-forward="false" selection-start-line="23" selection-start-column="178" selection-end-line="23" selection-end-column="178" />
+          <folding>
+            <marker date="1519764446830" expanded="true" signature="386:501" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1519764446830" expanded="true" signature="939:1060" ph="SELECT permi... ${DB_PREFIX}" />
+            <marker date="1519764446830" expanded="true" signature="1404:1672" ph="SELECT * FRO... ${DB_PREFIX}" />
+            <marker date="1519764446830" expanded="true" signature="1978:2099" ph="SELECT permi... ${DB_PREFIX}" />
+          </folding>
         </state>
       </provider>
     </entry>
